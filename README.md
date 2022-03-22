@@ -1,0 +1,2 @@
+# Sports-Person-Classifier
+In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people,  Maria Sharapova 2)Serena Williams Virat Kohli Roger Federer Lionel Messi Technologies used in this project,  Python Numpy and OpenCV for data cleaning Matplotlib &amp; Seaborn for data visualization Sklearn for model building Jupyter notebook, visual studio code and pycharm as IDE
